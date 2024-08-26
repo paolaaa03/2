@@ -6,6 +6,12 @@
     <link rel="stylesheet" tipe="text/css" tipe="text/css" href="style.css">
     <meta charset="utf-8" />
 
-
+</head>
+<body>
+  <main>
+  </main>
+  script src="sketch.js"></body>/script>
+</body>
+</html>
     
        
